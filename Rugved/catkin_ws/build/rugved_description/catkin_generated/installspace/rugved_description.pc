@@ -1,0 +1,8 @@
+prefix=/home/ankit/catkin_ws/install
+
+Name: rugved_description
+Description: Description of rugved_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

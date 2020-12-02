@@ -1,0 +1,8 @@
+prefix=/home/ankit/catkin_ws/devel
+
+Name: turtlenpoly
+Description: Description of turtlenpoly
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
